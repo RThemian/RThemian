@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RThemian
+- 👋 Hi, I’m @RThemian or Tomas Paul!
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ReactJS, Javascript, CSS, HTML, MERN.
 - 💞️ I’m looking to collaborate on ... weather apps, currency exchanges, GIS maps, or you name it!
