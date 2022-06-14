@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RThemian
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ReactJS, Javascript, CSS, HTML, MERN.
+- 💞️ I’m looking to collaborate on ... weather apps, currency exchanges, GIS maps, or you name it!
+- 📫 How to reach me ... tomas.cservenak@gmail.com
 
 <!---
 RThemian/RThemian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
